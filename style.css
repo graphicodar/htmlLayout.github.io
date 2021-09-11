@@ -1,0 +1,100 @@
+body {
+  padding: 0px;
+  font-family: Futura Md BT;
+  color: rgb(32, 32, 32);
+  font-size: 18px;
+}
+header {
+  text-align: center;
+  color: aliceblue;
+  background: rgb(46, 45, 45);
+  padding: 20px;
+}
+header img {
+  width: 50%;
+}
+nav {
+  background: rgb(17, 17, 17);
+  padding: 15px;
+}
+nav a {
+  color: goldenrod;
+  margin: 20px;
+  font-size: 20px;
+  text-decoration: none;
+  /* background-color: orange; */
+}
+section {
+  text-align: center;
+  padding: 15px;
+}
+section h1 {
+  margin-top: 21px;
+  color: goldenrod;
+}
+section div {
+  display: inline-block;
+  width: 50%;
+  margin-left: 15px;
+  font-size: 22px;
+}
+section aside {
+  display: inline-block;
+  float: right;
+  width: 40%;
+}
+aside iframe {
+  background: rgb(226, 189, 96);
+  /* background: rgb(58, 57, 57); */
+  padding: 5px;
+}
+section button {
+  background: goldenrod;
+  padding: 15px;
+  border: none;
+  width: 50%;
+  font-size: 28px;
+  color: aliceblue;
+  margin-bottom: 35px;
+}
+form {
+  font-family: Futura Md BT;
+}
+form input {
+  width: 300px;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+form textarea {
+  width: 960px;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+form input[type="submit"] {
+  background: goldenrod;
+  border: none;
+  color: aliceblue;
+  font-size: 20px;
+}
+footer {
+  background: rgb(17, 17, 17);
+  padding: 10px;
+}
+footer a {
+  color: goldenrod;
+  padding: 10px;
+  text-decoration: none;
+  margin-left: 15px;
+}
+.navbar {
+  color: goldenrod;
+}
+
+.about-us {
+  padding: 10px;
+  text-decoration: none;
+}
+
+footer {
+  color: aliceblue;
+}
